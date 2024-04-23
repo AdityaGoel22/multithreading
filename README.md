@@ -49,6 +49,14 @@ You can install the required dependencies using pip:
 pip install jupyter multiprocessing threading numpy os sys time random
 ```
 
+## Output Table
+| Threads  | T = 1 | T = 2 | T = 3 | T = 4 | T = 5 | T = 6 | T = 7 | T = 8 | T = 9 | T = 10 | T = 11 |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Time Taken (secs)  | 117 | 112 | 
+
+## Picture of Resource Monitor
+
+
 ## Files Included 
 
   1. Multi_Threading.ipynb: Jupyter notebook containg the code for the above mentioned
