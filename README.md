@@ -56,6 +56,7 @@ pip install jupyter multiprocessing threading numpy os sys time random
 
 ## Picture of Resource Monitor
 
+![image](image.png)
 
 ## Files Included 
 
